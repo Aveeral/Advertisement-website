@@ -251,15 +251,6 @@ header {
   gap: 1rem;
 }
 
-.socials a {
-  font-size: 1.5rem;
-  color: #0a78b0;
-  transition: transform 0.3s;
-}
-
-.socials a:hover {
-  transform: scale(1.2);
-}
 
 
 /* Footer */
