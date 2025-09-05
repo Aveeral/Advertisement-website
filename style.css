@@ -131,8 +131,8 @@ header {
   min-height: 300px
 }
 
-.hero-right img:hover {
-  transform: scale(1.05) rotate(0deg);
+.hero-right img:hover
+ { transform: scale(1.05) rotate(0deg); 
 }
 
 
