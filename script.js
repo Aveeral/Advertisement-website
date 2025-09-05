@@ -3,7 +3,7 @@ const text = "Hi, I'm Aveeral — a Web Dev in the Making!";
 let i = 0;
 function typeWriter() {
   if (i < text.length) {
-    document.getElementById("typewriter").innerHTML += text(i);
+    document.getElementById("typewriter").innerHTML += text[i];
     i++;
     setTimeout(typeWriter, 80);
   }
